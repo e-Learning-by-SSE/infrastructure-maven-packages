@@ -33,8 +33,8 @@ This needs to be done once if you work with maven dependencies of this organizat
 				</repository>
 				<repository>
 					<id>student-management-system-github</id>
-					<name>Student-Management-System GitHub Packages</name>
-					<url>https://maven.pkg.github.com/student-management-system/mavenpackages</url>
+					<name>e-learning GitHub Packages</name>
+					<url>https://maven.pkg.github.com/e-learning-by-sse/mavenpackages</url>
 					<releases>
 						<enabled>true</enabled>
 					</releases>
